@@ -8,7 +8,7 @@ class GFG {
 
         for (int i = 0; i < N; i++) {
             // Print the number
-            System.out.print(num1 + " ");
+            System.out.print(num1 + " My new changes");
 
             // Swap
             int num3 = num2 + num1;
